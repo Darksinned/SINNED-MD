@@ -23,20 +23,7 @@
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
 > To deploy, generate your session ID from the link below:
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Darksinned/sinned-session' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
- <br>
-<a href='https://dashboard.render.com' target="_blank">
-    <img alt='DEPLOY TO RENDER' src='https://img.shields.io/badge/-DEPLOY TO RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
-</a>
- <br>
-<a href='https://app.koyeb.com' target="_blank">
-    <img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/-DEPLOY TO KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/>
-</a>
-
-
-# `Owner`
-
- <a href="https://github.com/Darksinned"><img src="https://github.com/Darksinned.png" width="250" height="250" alt="Malvin Tech"/></a>
+<a content://ru.zdevs.zarchiver.external/storage/emulated/0/Download/Telegram/session%20script%20by%20malvin%20k/pair.html
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
