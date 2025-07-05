@@ -23,15 +23,20 @@
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
 > To deploy, generate your session ID from the link below:
-<p align="left">
-  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Darksinned/sinned-session' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+ <br>
+<a href='https://dashboard.render.com' target="_blank">
+    <img alt='DEPLOY TO RENDER' src='https://img.shields.io/badge/-DEPLOY TO RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
+</a>
+ <br>
+<a href='https://app.koyeb.com' target="_blank">
+    <img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/-DEPLOY TO KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/>
+</a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+# `Owner`
+
+ <a href="https://github.com/Darksinned"><img src="https://github.com/Darksinned.png" width="250" height="250" alt="Malvin Tech"/></a>
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
