@@ -22,8 +22,12 @@
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-> To deploy, generate your session ID from the link below:
-<a content://ru.zdevs.zarchiver.external/storage/emulated/0/Download/Telegram/session%20script%20by%20malvin%20k/pair.html
+> ![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://jin-pair-d5ug.onrender.com/pair)
+
+> 🔵 QR Code Authentication
+
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://jin-pair-d5ug.onrender.com/qr)
+
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
