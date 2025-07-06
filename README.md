@@ -22,7 +22,7 @@
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-> ![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://jin-pair-d5ug.onrender.com/pair)
+![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://jin-pair-d5ug.onrender.com/pair)
 
 > 🔵 QR Code Authentication
 
